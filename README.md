@@ -5,6 +5,5 @@
  - 安装User Scripts
 
 # 使用方法
-# 虚拟机的名称
 vm_name=Win11
 这里的Win11改为你需要监控的虚拟机，放入User Scripts定时执行即可。
